@@ -1,0 +1,11 @@
+# Akhil Jain (14CS10003)
+# Shubham Jain (14CS10043) 
+# Group no. 8
+# Second largest element of array
+
+
+	.text
+	.globl main
+	
+main:
+	
